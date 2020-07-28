@@ -26,7 +26,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Kotlin-3.1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fIys1PEjFkG28gMRJ5LJyNJ4rS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -114,9 +114,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595920982655">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595921075098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595920982655" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595921075098" />
   </component>
 </project>
